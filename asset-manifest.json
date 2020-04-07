@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/christrewartha/ucu_app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/christrewartha/ucu_app/static/js/main.c4b9b9bf.chunk.js",
+    "main.js.map": "/christrewartha/ucu_app/static/js/main.c4b9b9bf.chunk.js.map",
+    "runtime-main.js": "/christrewartha/ucu_app/static/js/runtime-main.d440bdd9.js",
+    "runtime-main.js.map": "/christrewartha/ucu_app/static/js/runtime-main.d440bdd9.js.map",
+    "static/js/2.456605d1.chunk.js": "/christrewartha/ucu_app/static/js/2.456605d1.chunk.js",
+    "static/js/2.456605d1.chunk.js.map": "/christrewartha/ucu_app/static/js/2.456605d1.chunk.js.map",
+    "index.html": "/christrewartha/ucu_app/index.html",
+    "precache-manifest.e2389eecb49aa1400d4a1e6966dbb173.js": "/christrewartha/ucu_app/precache-manifest.e2389eecb49aa1400d4a1e6966dbb173.js",
+    "service-worker.js": "/christrewartha/ucu_app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/christrewartha/ucu_app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.456605d1.chunk.js.LICENSE.txt": "/christrewartha/ucu_app/static/js/2.456605d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/christrewartha/ucu_app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d440bdd9.js",
+    "static/js/2.456605d1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c4b9b9bf.chunk.js"
+  ]
+}
